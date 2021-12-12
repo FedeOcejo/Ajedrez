@@ -1,5 +1,5 @@
 tablero = [
-['', '', '', '', '','','',pt]
+['', '', '', '', '','','','']
 ['', '', '', '', '','','','']
 ['', '', '', '', '','','','']
 ['', '', '', '', '','','','']
@@ -29,5 +29,5 @@ Negras = {
 piezas_Blancas = list (Blancas.values())
 piezas_Negras = list (Negras.values())
 
-def colocar_tablero (color, fila, filas_peon):
-    tablero[pt]= color['torre']
+
+movimiento = 0
